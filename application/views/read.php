@@ -21,3 +21,4 @@ $('.delete_btn').on('click',function(){
 	});
 });
 </script>
+</script></script>
